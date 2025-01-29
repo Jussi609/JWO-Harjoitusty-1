@@ -1,0 +1,20 @@
+.player-grid {
+    border: 1px solid var(--lumo-contrast-10pct);
+    border-radius: var(--lumo-border-radius);
+}
+
+.player-form {
+    padding: var(--lumo-space-m);
+}
+
+.main-view {
+    padding: var(--lumo-space-m);
+}
+
+.statistics-view {
+    padding: var(--lumo-space-m);
+}
+
+.login-view {
+    background: var(--lumo-contrast-5pct);
+} 
